@@ -13,9 +13,11 @@ hr{
  text-align: center; 
 }
 #content img {
-  border-top-left-radius:8px;
+  border-top-left-radius:15px;
   border-bottom-right-radius:8px;
   border-top-right-radius:50%;
   border-bottom-left-radius:50%;
   display: block;
+  width:400px;
+  height:300px;
 }

@@ -15,10 +15,10 @@ hr{
 #content img {
   margin: auto;
   border-top-left-radius:15px;
-  border-bottom-right-radius:8px;
+  border-bottom-right-radius:15px;
   border-top-right-radius:50%;
   border-bottom-left-radius:50%;
   display: block;
-  width:200px;
-  height:100px;
+  width:150px;
+  height:50px;
 }

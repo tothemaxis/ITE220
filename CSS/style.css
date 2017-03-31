@@ -13,6 +13,7 @@ hr{
  text-align: center; 
 }
 #content img {
-  height: 50px;
-  width: 50px;
+    display: block;
+    margin: auto;
+    width: 50%;
 }

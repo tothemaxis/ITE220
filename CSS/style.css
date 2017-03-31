@@ -13,12 +13,12 @@ hr{
  text-align: center; 
 }
 #content img {
+  display: block;
   margin: auto;
+  width:150px;
+  height:50px;
   border-top-left-radius:15px;
   border-bottom-right-radius:15px;
   border-top-right-radius:50%;
   border-bottom-left-radius:50%;
-  display: block;
-  width:150px;
-  height:50px;
 }
